@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 
 import { useDevTools, DevTools, wrapChildrenClassName } from 'flex-wrap-layout';
 
-import './Bootstrap4.html';
+import './index.html';
 import './Bootstrap4.scss';
 
 // https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes
