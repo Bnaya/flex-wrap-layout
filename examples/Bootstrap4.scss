@@ -5,6 +5,10 @@
 
 @import '~@tkrotoff/bootstrap-floating-label/src/bootstrap4-floating-label';
 
+.custom-select {
+  -webkit-appearance: none;
+}
+
 .people {
   // Displays only the first row of titles
   .person:not(:first-of-type) .column-title {
